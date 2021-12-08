@@ -18,8 +18,10 @@ En mi caso he optado por Wii Fit y Waze, dos software que han marcado cómo nos 
 ## Re-descubriendo la hibridacion: Caso 1 - Wii Fit
 
 **Un poco de historia**  
-En este ensayo vamos a hablar del videojuego Wii Fit, presentado el 11 de julio del 2007 en el E3 (lanzado en España el 25 de abril de 2008 (Cascón, 2008)) creado por Shigeru Miyamoto (creador también de Mario, Donkey Kong, The Legend of Zelda, Star Fox, Pikmin…) 
+En este ensayo vamos a hablar del videojuego Wii Fit, presentado el 11 de julio del 2007 en el E3 (lanzado en España el 25 de abril de 2008 (Cascón, 2008)) creado por Shigeru Miyamoto (creador también de Mario, Donkey Kong, The Legend of Zelda, Star Fox, Pikmin…). En el 2019 es el primer creador de videojuegos que recibe del gobierno japonés el título de **Persona de Mérito Cultura**.
 En este videojuego toma una especial relevancia el desarrollo de Wii Balance Board: una báscula con 4 sensores que mide el peso y el centro de gravedad del usuario. También calcula la masa corporal teniendo en cuenta la altura de éste. Este accesorio se convirtió en el mayor éxito de la consola ya que los tres primeros meses desde su estreno se vendieron más de un millón de unidades en Japón, América del Norte y Europa. (Wikipedia).
+
+![Shigeru Miyamoto](https://i.blogs.es/4e683c/captura/1366_2000.jpeg "Imagen de Shigeru Miyamoto") 
 
 **El por qué de Wii Fit**  
 ¿Por qué he elegido este videojuego como caso de hibridación? Como siempre no hay una única razón. Cuando salió la Wii me pareció una idea genial ya que se “democratizaba” el videojuego. Los videojuegos de PC tenían los días contados por la irrupción de la PlayStation y la Xbox, y el aumento de la piratería en España. Que Nintendo sacara una consola para combatir directamente contra Sony y Microsoft pero para un público más allá de los gamers, más familiar, me pareció un golpe maestro.
@@ -31,6 +33,10 @@ Al igual que Manovich analiza el software de cine (Manovich, 2013) teniendo en c
 
 Al igual que After Effects supuso una revolución en su campo (Manovich, 2013), Wii Fit también ya que no sólo consiguió revolucionar los hábitos de ocio incorporando a los “no jugadores” e implantándose en el comedor, si no que ha conseguido perdurar en el tiempo en personas de avanzada edad como el caso de la abuela de George Perkins, profesional relacionado con los videojuegos, que lleva 4784 días jugando a la Wii Fit, es decir, ¡más de 10 años! (Hernández, 2021).
 
+![Abuela con su récord](
+https://pbs.twimg.com/media/E3XhNnsXMAMVSxN?format=jpg&name=900x900 "Abuelita orgullosa de sus 4.774 jugando a Wii Fit") 
+
+
 
 ## Re-descubriendo la hibridacion: Caso 2 - Waze
 
@@ -41,6 +47,10 @@ El 11 de junio de 2013, Google adquirió Waze Limited por $966 millones de dóla
 
 
 **¿Por qué Waze?**   
+![Wazer](
+https://pbs.twimg.com/media/FE4-X8mXoAEjV5s?format=jpg&name=small "Imagen de Wazers del Twitter oficial de Waze") 
+
+
 Conocí Waze por trabajo hace unos años. Un comercial inglés me presentó las posibilidades publicitarias de la aplicación, no la conocía en absoluto ya que en ese momento el software dominante era Google Maps.
 Me llamó la atención que la aplicación se alimentara de las experiencias de otros usuarios, esa comunidad tan activa combinaba a la perfección Google Maps o si nos vamos más atrás los antiguos callejeros con los sistemas de emisoras de radio utilizados mayoritariamente por los taxistas para avisarse de atascos, accidentes, controles policiales... “Los materiales se convierten en estructuras de datos; las herramientas físicas, mecánicas y electrónicas se transforman en herramientas de software que trabajan sobre estas estructuras de datos.” (Manovich, 2013). 
 A mi modo de ver, contaba con las funcionalidades que yo utilizaba de Google Maps y además el hecho de que los radares estuvieran actualizados por los usuarios le daba un plus de utilidad enorme. Principalmente Google Maps es una aplicación de mapas con navegación, mientras que Waze es una aplicación de navegación (Ramírez, 2021), es por eso que se crea una nueva plataforma de medios.
@@ -50,7 +60,8 @@ Podemos caer en la tentación de definir a Waze como un producto multimedia, es 
 
 Cuando Manovich cita a Marshall McLuhan (Understanding Media, 1964) “Primero conformamos nuestras herramientas; acto seguido nos conforman ellas a nosotros.” (Manovich, 2013). No deja de ser curioso como ya en 1964 se tuviera una visión tan clara del futuro que ahora es nuestra realidad. Cuando teníamos que ir a algún sitio cerca de nuestro entorno conocido, consultábamos antes una guía que poco tenía que ver con el concepto bolsillo, ¡sólo en el tamaño no en el grosor! Ahora las podemos encontrar como elemento de coleccionista. Memorizábamos como ir para no cargar con ella y listos. Ahora esa fase previa de “preproducción” en esos desplazamientos cortos ha desaparecido y confiamos plenamente en las capacidades de la aplicación sin darle importancia a nuestra orientación y memoria. Waze ha supuesto un cambio radical en cómo nos desplazamos y cómo utilizamos nuestra memoria espacial.
 
-
+![Callejero Barcelona](
+https://cloud10.todocoleccion.online/coleccionismo/tc/2016/03/31/00/45214943_20_31.webp "Edición coleccionista del callejero de Barcelona de 1965") 
 
 
 ### Referencias y Bibliografía: Caso 1 - Wii Fit
@@ -63,6 +74,8 @@ https://www.frikipandi.com/juegos/20080411/wii-fit-todos-a-ponernos-en-forma-el-
 * Fuentes, Sacha. 29 de noviembre, 2008. *PC Fit, ponte en forma frente al ordenador* [en línea] [fecha de consulta: 28 de noviembre de 2021]. Disponible en  https://www.xataka.com/videojuegos/pc-fit-ponte-en-forma-frente-al-ordenador#comments
 
 * Hernández, David. 10 de junio, 2021. *Esta abuela está más en forma que tú, lleva más de 10 años jugando a Wii Fit* [en línea] [fecha de consulta: 28 de noviembre de 2021]. Disponible en https://www.hobbyconsolas.com/noticias/abuela-forma-lleva-10-anos-jugando-wii-fit-880103
+
+* León, Jonathan. 29 de octubre, 2019. *Shigeru Miyamoto ha sido reconocido con el título de Persona de Mérito Cultural por el gobierno japonés* [en línea] [fecha de consulta: 7 de diciembre de 2021]. Disponible en https://www.vidaextra.com/industria/shigeru-miyamoyo-ha-sido-reconocido-titulo-persona-merito-cultural-gobierno-japones
 
 * Manovich, L. (2013). *El software toma el mando*. Barcelona: Editorial UOC
 
@@ -89,6 +102,8 @@ https://www.frikipandi.com/juegos/20080411/wii-fit-todos-a-ponernos-en-forma-el-
 * Todocolección. *Antigua guia callejero Ciudad de Barcelona de 1965* [en línea] [fecha de consulta: 29 de noviembre de 2021]. Disponible en https://www.todocoleccion.net/coleccionismo/antigua-guia-callejero-ciudad-barcelona-1965~x45214943
 
 * Waze, Wikipedia: la enciclopedia libre [en línea] [fecha de consulta: 29 de noviembre de 2021]. Disponible en https://es.wikipedia.org/wiki/Waze
+
+* Waze latino, twitter [en línea] [fecha de consulta: 7 de diciembre de 2021]. Disponible en https://twitter.com/WazeLatino/status/1463175512004730882
 
 
 ----
